@@ -1,0 +1,9 @@
+C:\Users\M.Aslani\source\repos\DesktopAppp\DesktopAppp\bin\Debug\DesktopAppp.exe.config
+C:\Users\M.Aslani\source\repos\DesktopAppp\DesktopAppp\bin\Debug\DesktopAppp.exe
+C:\Users\M.Aslani\source\repos\DesktopAppp\DesktopAppp\bin\Debug\DesktopAppp.pdb
+C:\Users\M.Aslani\source\repos\DesktopAppp\DesktopAppp\obj\Debug\DesktopAppp.csprojAssemblyReference.cache
+C:\Users\M.Aslani\source\repos\DesktopAppp\DesktopAppp\obj\Debug\DesktopAppp.Properties.Resources.resources
+C:\Users\M.Aslani\source\repos\DesktopAppp\DesktopAppp\obj\Debug\DesktopAppp.csproj.GenerateResource.cache
+C:\Users\M.Aslani\source\repos\DesktopAppp\DesktopAppp\obj\Debug\DesktopAppp.csproj.CoreCompileInputs.cache
+C:\Users\M.Aslani\source\repos\DesktopAppp\DesktopAppp\obj\Debug\DesktopAppp.exe
+C:\Users\M.Aslani\source\repos\DesktopAppp\DesktopAppp\obj\Debug\DesktopAppp.pdb
